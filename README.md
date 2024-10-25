@@ -15,6 +15,13 @@
 - **Customizable Settings**: Adjust chart and data processing parameters based on user needs.
 - **Quick Export**: Export processed data and charts in common formats for easy sharing and reporting.
 
+## Download
+
+You can download the latest version of DataCAT from the [Releases](https://github.com/RachelFengRobotics/DataCat/releases/tag/V1_0) page.
+
+[![Download DataCAT](https://img.shields.io/github/downloads/RachelFengRobotics/DataCat/total.svg)](https://github.com/RachelFengRobotics/DataCat/releases/tag/V1_0)
+
+
 ## Installation
 
 ### System Requirements

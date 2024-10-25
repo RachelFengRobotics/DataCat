@@ -4,7 +4,8 @@
 
 **DataCAT** is a user-friendly data processing and data visualization application designed to simplify and accelerate the data analysis workflow. With an intuitive Graphical User Interface (GUI), DataCAT offers powerful features that help users effortlessly process raw data and generate visual charts.
 
-<img src="images/DATACAT_V1_1.jpg" width="50%" />
+<img src="DATACAT_V1_1.jpg" alt="DataCAT Logo" width="50%" />
+
 
 ## Features
 
